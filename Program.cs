@@ -10,3 +10,12 @@
 // [“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
+// Задаем исходный массив строк
+string[] input = { "Hello", "Hi", "Bye", "OK", "No", "Yes", "Wow", "C#", "Bing" };
+// Выводим исходный массив на экран
+Console.WriteLine("Исходный массив:");
+foreach (string s in input)
+{
+    Console.Write(s + " ");
+}
+Console.WriteLine();
