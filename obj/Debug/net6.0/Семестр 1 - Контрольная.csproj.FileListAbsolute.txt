@@ -1,0 +1,15 @@
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\bin\Debug\net6.0\Семестр 1 - Контрольная.exe
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\bin\Debug\net6.0\Семестр 1 - Контрольная.deps.json
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\bin\Debug\net6.0\Семестр 1 - Контрольная.runtimeconfig.json
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\bin\Debug\net6.0\Семестр 1 - Контрольная.dll
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\bin\Debug\net6.0\Семестр 1 - Контрольная.pdb
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\Семестр 1 - Контрольная.csproj.AssemblyReference.cache
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\Семестр 1 - Контрольная.GeneratedMSBuildEditorConfig.editorconfig
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\Семестр 1 - Контрольная.AssemblyInfoInputs.cache
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\Семестр 1 - Контрольная.AssemblyInfo.cs
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\Семестр 1 - Контрольная.csproj.CoreCompileInputs.cache
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\Семестр 1 - Контрольная.dll
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\refint\Семестр 1 - Контрольная.dll
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\Семестр 1 - Контрольная.pdb
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\Семестр 1 - Контрольная.genruntimeconfig.cache
+D:\Development\Unity\Обучение в GeekBrains\Семестр 1 - Контрольная\obj\Debug\net6.0\ref\Семестр 1 - Контрольная.dll

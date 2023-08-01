@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Семестр 1 - Контрольная/1.0.0": {
+        "runtime": {
+          "Семестр 1 - Контрольная.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Семестр 1 - Контрольная/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
