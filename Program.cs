@@ -11,7 +11,7 @@
 // [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 // [“Russia”, “Denmark”, “Kazan”] → []
 
-int maxSymbols = 3; //Максимальная длина строки
+int maxSymbols = 3; //Максимальная длина строки.
 int maxElements = 5; //Максимальное количество элементов массива при вводе с клавиатуры
 // Задаем исходный массив строк для работы с параметром (1)
 string[] inputParameter = { "Hello", "Hi", "Bye", "OK", "No", "Yes", "Wow", "C#", "Success" };
